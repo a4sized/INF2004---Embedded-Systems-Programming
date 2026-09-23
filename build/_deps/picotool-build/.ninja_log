@@ -1,0 +1,137 @@
+# ninja log v5
+32	324	8114489381871340	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-mkdir	8f42bfb44bb345f
+32	324	8114489381871340	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-mkdir	8f42bfb44bb345f
+17	334	8114489381871340	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-mkdir	47a573e8762ec01a
+17	334	8114489381871340	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-mkdir	47a573e8762ec01a
+325	441	8114489383031987	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-download	af8d5e3a106e326a
+325	441	8114489383031987	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-download	af8d5e3a106e326a
+334	454	8114489383072489	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-download	6c8251b3b6ecfc87
+334	454	8114489383072489	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-download	6c8251b3b6ecfc87
+441	566	8114489384289586	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-update	202b36cc82c86695
+441	566	8114489384289586	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-update	202b36cc82c86695
+64	584	8114489384490828	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/aria.c.obj	d0eb6b4e35abaac0
+454	592	8114489384490828	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-update	6665c919875fd076
+454	592	8114489384490828	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-update	6665c919875fd076
+566	694	8114489385589603	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-patch	2f7229da09d7b2a6
+566	694	8114489385589603	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-patch	2f7229da09d7b2a6
+586	764	8114489386253383	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ccm.c.obj	1bf209e9505f04e9
+592	770	8114489386293662	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-patch	8d6d3d1c44c7cf2a
+592	770	8114489386293662	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-patch	8d6d3d1c44c7cf2a
+54	862	8114489387166033	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/aesni.c.obj	c11bd0d627185c60
+90	1026	8114489388783870	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/base64.c.obj	d066199f8ef7eaab
+764	1060	8114489389083989	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/chacha20.c.obj	973d671b240247e0
+862	1128	8114489389887540	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/chachapoly.c.obj	8d4bcf5d5e15b076
+73	1174	8114489390352485	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/asn1parse.c.obj	64edd7a776c41709
+108	1186	8114489390441243	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/camellia.c.obj	305e450679fc9754
+82	1192	8114489390441243	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/asn1write.c.obj	38af433d65138c0f
+1174	1432	8114489392797910	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/cmac.c.obj	85f285dfee9ea9de
+1060	1466	8114489393154070	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/cipher_wrap.c.obj	ffaaf7c5e54cb589
+1193	1548	8114489394091685	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/des.c.obj	f11e481332cda5b7
+1027	1580	8114489394448598	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/cipher.c.obj	2d2d53f62c88ee7e
+1128	1647	8114489394569346	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/constant_time.c.obj	1482e9d6567f0e50
+1467	1653	8114489394975197	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ecdh.c.obj	2da531aa77333e09
+44	1659	8114489395045494	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/aes.c.obj	5ca33d894cb1e8d2
+1433	1690	8114489395465181	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/dhm.c.obj	bb4d5a0d41429229
+1186	1747	8114489396003046	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ctr_drbg.c.obj	3cfac821d3cf2eb3
+1580	1848	8114489396930432	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ecjpake.c.obj	ef0dc0dc3324c093
+1849	2075	8114489399381982	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/gcm.c.obj	47a3684b1d950248
+1659	2101	8114489399552620	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/entropy.c.obj	412a3f6cbf2c94e6
+1548	2213	8114489400595746	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ecdsa.c.obj	f947a365b380baa3
+1748	2355	8114489402187688	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/error.c.obj	660aabcc21b79cbf
+1654	2521	8114489403869847	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ecp_curves.c.obj	ea7b60779850aa75
+2101	2562	8114489404198076	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/hmac_drbg.c.obj	1af931cd937d03ba
+2075	2626	8114489404810453	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/hkdf.c.obj	a22faf182ebaffd6
+2521	2756	8114489406156417	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/memory_buffer_alloc.c.obj	486e59ec2a2bb498
+2356	2827	8114489406753940	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/md5.c.obj	67d896fd9ef547c
+2626	2863	8114489407223388	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/mps_trace.c.obj	2e49b9fe028e0e45
+99	2869	8114489407223388	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/bignum.c.obj	8d36d16e85e773cc
+2213	2890	8114489407480451	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/md.c.obj	a56b3af06ba9de23
+2562	2934	8114489407861013	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/mps_reader.c.obj	9c95c7deaa258264
+2756	3002	8114489408516926	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/nist_kw.c.obj	46f7ecb1e6fe3aea
+1647	3051	8114489409093660	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ecp.c.obj	f9a3d45cbac9e61d
+2863	3102	8114489409662555	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/padlock.c.obj	c8e0f18de868016e
+2869	3240	8114489411043035	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pem.c.obj	3fccdaa546bb2b38
+2890	3287	8114489411504827	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pk.c.obj	77f72dc1b74d3525
+2827	3408	8114489412694106	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/oid.c.obj	1bdeb96d40a57c01
+2935	3515	8114489413539727	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pk_wrap.c.obj	8ad00176c5d3a3e5
+3102	3546	8114489414050965	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pkparse.c.obj	7cbf7745cdb6f80e
+3287	3607	8114489414637638	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/platform.c.obj	61a4d6f54cb5f4df
+3051	3613	8114489414491962	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pkcs5.c.obj	c0ffbe750323fb43
+3002	3622	8114489414718222	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pkcs12.c.obj	a60708f3760818d6
+3240	3712	8114489415680319	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pkwrite.c.obj	7d69da47cb2af7dd
+3546	3802	8114489416394917	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto.c.obj	64dba2445440c4a5
+3607	3830	8114489416869218	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_aead.c.obj	c42975efb325837b
+3613	3836	8114489416773149	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_cipher.c.obj	12d966f843639230
+3712	3902	8114489417627265	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_ecp.c.obj	281a493d7f08495f
+3830	3978	8114489418398853	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_mac.c.obj	a773722968362dc3
+3622	3984	8114489418462693	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_client.c.obj	413a0ebcb0289bc6
+3802	3990	8114489418543336	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_hash.c.obj	730b4210ff03a004
+3515	4040	8114489418979239	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/poly1305.c.obj	678051802da9ab91
+3902	4110	8114489419699936	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_se.c.obj	8a68ca9eef2d4cc
+3836	4152	8114489420025321	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_rsa.c.obj	40b331f45d62ec2
+3978	4183	8114489420394971	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_slot_management.c.obj	e67195f4063d8e35
+3991	4198	8114489420606296	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_its_file.c.obj	bf297b4f0009bd7d
+4040	4242	8114489420984524	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/ripemd160.c.obj	37d63ab9f8eec592
+3984	4271	8114489421360324	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/psa_crypto_storage.c.obj	7ae0462e75a7927a
+4110	4281	8114489421478994	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/rsa.c.obj	14a9fe6aef1639b9
+4242	4528	8114489423832432	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/threading.c.obj	75de6bac9d389a82
+4281	4556	8114489423959046	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/version.c.obj	e3de7f4bf8097afe
+4198	4667	8114489425278615	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/sha512.c.obj	b40c35e472eb5dd8
+4152	4715	8114489425814298	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/sha1.c.obj	8e4dac25653c2b67
+4528	4723	8114489425895011	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/version_features.c.obj	6eb611278053fa99
+694	4798	8114489426527675	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-configure	bf6481abec4a3005
+694	4798	8114489426527675	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-configure	bf6481abec4a3005
+4183	4816	8114489426669078	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/sha256.c.obj	a4224a3b84cd980d
+4667	4833	8114489426920982	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/rsa_alt_helpers.c.obj	6f0854f09a44d122
+4723	4919	8114489427826330	model/rp2350_a2_rom_end.h	c84536da39841299
+4723	4919	8114489427826330	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/model/rp2350_a2_rom_end.h	c84536da39841299
+4798	4928	0	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-build	546ddbd68b450d18
+4798	4928	0	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-build	546ddbd68b450d18
+4715	4937	8114489427901949	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/pk_ecc.c.obj	8044f3645585bc97
+4816	4937	8114489427901949	model/rp2350_a3_rom_end.h	3f5bb701318841af
+4816	4937	8114489427901949	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/model/rp2350_a3_rom_end.h	3f5bb701318841af
+4834	5019	8114489428769383	model/rp2350_a4_rom_end.h	f32963d571644589
+4834	5019	8114489428769383	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/model/rp2350_a4_rom_end.h	f32963d571644589
+4928	5047	0	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-install	a4f7f72cc2738d08
+4928	5047	0	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-install	a4f7f72cc2738d08
+5047	5328	8114489431912193	CMakeFiles/enc_bootloader_mbedtls-complete	ab745beeac92ceae
+5047	5328	8114489431912193	enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-done	ab745beeac92ceae
+5047	5328	8114489431912193	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/CMakeFiles/enc_bootloader_mbedtls-complete	ab745beeac92ceae
+5047	5328	8114489431912193	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls/src/enc_bootloader_mbedtls-stamp/enc_bootloader_mbedtls-done	ab745beeac92ceae
+4556	5393	8114489432586394	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/bignum_core.c.obj	f6ea42775867cfe6
+770	5635	8114489434959918	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-configure	d315571273bfa5e5
+770	5635	8114489434959918	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-configure	d315571273bfa5e5
+5394	5703	8114489435675492	bintool/CMakeFiles/bintool.dir/mbedtls_wrapper.c.obj	17b2b1909010eeb1
+5635	5838	0	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-build	e94040e600a2c0c7
+5635	5838	0	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-build	e94040e600a2c0c7
+4920	5860	8114489437027618	errors/CMakeFiles/errors.dir/errors.cpp.obj	f8d93126e933c707
+5838	6006	0	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-install	cf86ff91363bb87a
+5838	6006	0	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-install	cf86ff91363bb87a
+3408	6266	8114489441137071	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/platform_util.c.obj	54956e67d1a15818
+4271	6276	8114489441182504	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/timing.c.obj	fc135eb917dce7fc
+1690	6278	8114489441212768	lib/CMakeFiles/mbedtls.dir/C_/Users/reggi/Programming/INF2004_-_Labs/LAB1/pico-sdk/lib/mbedtls/library/entropy_poll.c.obj	3c62a6c0f76249ce
+6006	6360	8114489442223566	CMakeFiles/enc_bootloader-complete	98f387fecae379fa
+6006	6360	8114489442223566	enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-done	98f387fecae379fa
+6006	6360	8114489442223566	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/CMakeFiles/enc_bootloader-complete	98f387fecae379fa
+6006	6360	8114489442223566	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader/src/enc_bootloader-stamp/enc_bootloader-done	98f387fecae379fa
+5019	6622	8114489444898481	model/CMakeFiles/model.dir/model.cpp.obj	6c1c9519f19d304e
+6360	6855	8114489447199701	enc_bootloader_elf.h	2fdcdac755cefd65
+6360	6855	8114489447199701	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_elf.h	2fdcdac755cefd65
+5861	7065	8114489449339326	errors/liberrors.a	7e65e89c1c091650
+6278	7134	8114489449987077	lib/libmbedtls.a	c1378a5812891f7d
+6368	7205	8114489450668478	enc_bootloader_mbedtls_elf.h	19ff403b7bbd6051
+6368	7205	8114489450668478	C:/Users/reggi/Programming/INF2004 - Embedded Systems Programming/Robotic_Car/build/_deps/picotool-build/enc_bootloader_mbedtls_elf.h	19ff403b7bbd6051
+7065	7238	8114489450766072	model/libmodel.a	582cefa6cd30f24
+5029	7647	8114489454519367	elf2uf2/CMakeFiles/elf2uf2.dir/elf2uf2.cpp.obj	ddfec87b0a916ddd
+7205	7731	8114489455892208	CMakeFiles/picotool.dir/data_locs.cpp.obj	13d5aa246fa3ce0e
+7227	8320	8114489461875792	CMakeFiles/picotool.dir/lib/whereami/whereami.c.obj	416c60278a06288f
+7211	8390	8114489462572728	CMakeFiles/picotool.dir/get_enc_bootloader.cpp.obj	72c4f39641d328f5
+7233	9022	8114489468903345	CMakeFiles/picotool.dir/lib/whereami/whereami++.cpp.obj	358014142921ee53
+7216	9095	8114489469631251	CMakeFiles/picotool.dir/no_otp.cpp.obj	db46666d643ce530
+5024	9134	8114489470002161	elf/CMakeFiles/elf.dir/elf_file.cpp.obj	e8f5280be13dddf9
+9134	9263	8114489471310919	elf/libelf.a	3c26808b8690b8d5
+9263	9413	8114489472780108	elf2uf2/libelf2uf2.a	f3b00dbfa26f252e
+5328	10725	8114489485849086	bintool/CMakeFiles/bintool.dir/bintool.cpp.obj	ade3cb37b7363446
+10725	10912	8114489487763538	bintool/libbintool.a	c9387eb93564d040
+7222	36126	8114489739620987	CMakeFiles/picotool.dir/main.cpp.obj	ff20f31092c8496d
+36127	36849	8114489746696533	picotool.exe	1f779c2f3cdc4329
