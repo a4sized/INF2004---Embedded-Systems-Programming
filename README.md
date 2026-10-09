@@ -33,14 +33,14 @@ GY-511 3-AXIS ACCELEROMETER AND MAGNETOMETER connections(GROVE6):
 | Serial Clock      | GP26                        | WHITE          |
 | Serial Data       | GP27                        | YELLOW         |
 
-TCRT5000 REFLECTIVE OPTICAL SENSOR connections(GROVE7, right):
+TCRT5000 REFLECTIVE OPTICAL SENSOR connections(GROVE7, left):
 | *Sensor/Function* | *Connected To Pin/Terminal* | *Cable Colour* |
 | VCC               | 3.3V                        | RED            |
 | GND               | GROUND                      | BLACK          |
 | Digital Output    | GP7                         | WHITE          |
 | Analog Output     | GP28                        | YELLOW         |
 
-TCRT5000 REFLECTIVE OPTICAL SENSOR connections(GROVE3, left):
+TCRT5000 REFLECTIVE OPTICAL SENSOR connections(GROVE3, right):
 | *Sensor/Function* | *Connected To Pin/Terminal* | *Cable Colour* |
 | VCC               | 3.3V                        | RED            |
 | GND               | GROUND                      | BLACK          |
