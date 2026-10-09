@@ -1,6 +1,5 @@
-Please refer to the pin layout of the Robo Pico board
-https://www.farnell.com/datasheets/4248509.pdf
 
+Once youre done, don't forget to update the CMakeLists.txt to include your .c file
 
 LEFT MOTOR connections:
 | *Sensor/Function* | *Connected To Pin/Terminal* | *Cable Colour* |
