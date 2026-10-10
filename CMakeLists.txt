@@ -15,8 +15,9 @@ pico_sdk_init()
 # remove the hash from the lines below to include the corresponding c files in the build once done
 add_executable(Robotic_Car 
     main.c
+    safetyMonitor.c
+    motionControl/motionControl.c
     #line_barcode/line_barcode.c        
-    #motionControl/motionControl.c
     #obstacleScan/obstacleScan.c
     #terrain_IMU/terrain_IMU.c
     #wifi_telemetry/wifi_telemetry.c

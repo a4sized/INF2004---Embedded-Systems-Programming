@@ -1,5 +1,17 @@
 
-Once youre done, don't forget to update the CMakeLists.txt to include your .c file
+Once youre done, don't forget to update the CMakeLists.txt to include your .c file.
+
+Refer to systemFaults.h, yall can use 7 unique bits for your component faults (if any). Since the pico w is a 32-bit architecture, we have 32 bits to play around with.
+But i think 7 bits per person shld be good enuf.
+
+Also refer to safetyMonitor.c, its where we dump all our fault checks here since it makes debugging easier.
+
+
+
+Miscellaneous connections:
+Piezo Buzzer - GP22
+
+
 
 LEFT MOTOR connections:
 | *Sensor/Function* | *Connected To Pin/Terminal* | *Cable Colour* |
@@ -59,3 +71,5 @@ SERVO connections:
 | GND               | GROUND                      | BROWN          |
 | VCC               | 3.3V                        | RED            |
 | PWM Control Signal| GP12                        | ORANGE         |
+
+

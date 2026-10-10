@@ -5,17 +5,18 @@
 #include <stdbool.h>
 
 #define SET_FAULT(mask, fault)((mask) |= (uint32_t)(fault))
-#define
-#define
-#define
+#define CLEAR_FAULT(mask, fault)((mask) &= ~((uint32_t)(fault)))
+#define HAS_FAULT(mask, fault)(((mask) & (uint32_t)(fault)) != 0U)
+#define HAS_ANY_FAULT(mask)((mask) != FAULT_NONE)
 
-#define GET_MOTOR_FAULTS(mask)
-#define GET_IR_FAULTS(mask)
-#define GET_US_FAULTS(mask)
-#define GET_IMU_FAULTS(mask)
-#define GET_WIFI_FAULTS(mask)
+#define GET_MOTOR_FAULTS(mask)((uint8_t)((mask) & 0x7FU))
+#define GET_WIFI_FAULTS(mask)((uint8_t)(((mask) & 0x3F80U) >> 7))
+#define GET_IR_FAULTS(mask)((uint8_t)(((mask) & 0x1FC000U) >> 14))
+#define GET_US_FAULTS(mask)((uint8_t)(((mask) & 0x0FE00000U) >> 21))
+#define GET_IMU_FAULTS(mask)((uint8_t)(((mask) & 0xF0000000U) >> 28))
 
-typedef enum{
+
+typedef enum{ // bit masking
     
     FAULT_NONE = 0x00000000U, // no active faults
 
@@ -25,9 +26,9 @@ typedef enum{
     FAULT_MOTOR_OVERVOLTAGE = (1U << 3),    // Bit 3
     FAULT_MOTOR_UNDERVOLTAGE = (1U << 4),   // Bit 4
     // reserved for any more motor faults (1U << 5)
-    // reserve for any more motor faults (1U << 6)
+    // reserved for any more motor faults (1U << 6)
 
-    // for rayray
+    // for rayykkk
     // <fault name> = (1U << 7),    // Bit 7
     // <fault name> = (1U << 8),    // Bit 8
     // <fault name> = (1U << 9),    // Bit 9
@@ -45,7 +46,7 @@ typedef enum{
     // <fault name> = (1U << 19),    // Bit 19
     // <fault name> = (1U << 20),    // Bit 20
 
-    // for Yanz
+    // for tim o tea
     // <fault name> = (1U << 21),    // Bit 21
     // <fault name> = (1U << 22),    // Bit 22
     // <fault name> = (1U << 23),    // Bit 23

@@ -39,14 +39,14 @@ void motion_fsm_update(int16_t left_speed, int16_t right_speed);
 MotionState_t motion_fsm_get_state(void);
 
 
-typedef enum{ // motor fault codes indicated by numbers
+/*typedef enum{ // motor fault codes indicated by numbers
 
     FAULT_NONE = 0x00,
     FAULT_STALL_LEFT = 0x01,
     FAULT_STALL_RIGHT = 0x02,
     FAULT_OVERCURRENT = 0x04,
     FAULT_EMERGENCY_STOP = 0x08,
-} MotorFault_t;
+} MotorFault_t;*/
 
 void motion_trigger_safety_halt(FaultCode_t cause);
 bool motion_is_fault_active(void);
